@@ -45,6 +45,9 @@ Next, you will be prompted to enter the following information:
 -------------------------
 Please ensure that you replace [enter the URL], [enter the session], and [enter the TrackingId] with the actual values you want to use [!!!]Check your browser's cookies.
 
+![2023-05-18-115626_1455x507_scrot](https://github.com/kvlx-alt/PortSwigger-SQL-Injection-Bash-Script/assets/118694485/2fdce536-a9c9-4575-9d27-c975fe9963ed)
+
+
 ## Important Note
 
 This script should only be used for educational purposes or with explicit permission from the target application's owner. Unauthorized use of this script on live systems is strictly prohibited.
