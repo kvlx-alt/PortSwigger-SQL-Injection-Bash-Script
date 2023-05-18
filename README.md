@@ -2,8 +2,11 @@
 
 
 This repository contains a Bash script that demonstrates SQL injection techniques using SQL Injection Labs on PortSwigger.
-
-The script is designed to showcase three different types of SQL injection attacks: blind SQL injection with conditional responses, blind SQL injection with conditional errors (Oracle), and blind SQL injection with time delays and information retrieval (PostgreSQL).
+> https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
+> 
+> https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
+> 
+> https://portswigger.net/web-security/sql-injection/blind/lab-time-delays-info-retrieval
 
 
 ## To run the script, you need the following:
